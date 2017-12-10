@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+  <ColumnNames>
+    <Col1>ID</Col1>
+    <Col2>Name</Col2>
+    <Col3>grades</Col3>
+  </ColumnNames>
+  <DataTypes>
+    <Type1>int</Type1>
+    <Type2>String</Type2>
+    <Type3>int</Type3>
+  </DataTypes>
+  <Column>
+    <Cell1>1</Cell1>
+    <Cell2>2</Cell2>
+    <Cell3>3</Cell3>
+    <Cell4>4</Cell4>
+    <Cell5>4</Cell5>
+    <Cell6>5</Cell6>
+  </Column>
+  <Column>
+    <Cell1>Mohamed</Cell1>
+    <Cell2>Reem</Cell2>
+    <Cell3>Hoda</Cell3>
+    <Cell4>Jojo</Cell4>
+    <Cell5>Nada</Cell5>
+    <Cell6>Reem</Cell6>
+  </Column>
+  <Column>
+    <Cell1>100</Cell1>
+    <Cell2>200</Cell2>
+    <Cell3>50</Cell3>
+    <Cell4>75</Cell4>
+    <Cell5>70</Cell5>
+    <Cell6>200</Cell6>
+  </Column>
+</students>

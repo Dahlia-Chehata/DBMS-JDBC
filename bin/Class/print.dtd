@@ -1,0 +1,7 @@
+<!ELEMENT print (ColumnNames,DataTypes)>
+<!ELEMENT ColumnNames (Col1,Col2)>
+<!ELEMENT Col1 (#PCDATA)>
+<!ELEMENT Col2 (#PCDATA)>
+<!ELEMENT DataTypes (Type1,Type2)>
+<!ELEMENT Type1 (#PCDATA)>
+<!ELEMENT Type2 (#PCDATA)>

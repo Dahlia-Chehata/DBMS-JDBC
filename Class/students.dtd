@@ -1,0 +1,16 @@
+<!ELEMENT students (ColumnNames,DataTypes,Column+)>
+<!ELEMENT ColumnNames (Col1,Col2,Col3)>
+<!ELEMENT Col1 (#PCDATA)>
+<!ELEMENT Col2 (#PCDATA)>
+<!ELEMENT Col3 (#PCDATA)>
+<!ELEMENT DataTypes (Type1,Type2,Type3)>
+<!ELEMENT Type1 (#PCDATA)>
+<!ELEMENT Type2 (#PCDATA)>
+<!ELEMENT Type3 (#PCDATA)>
+<!ELEMENT Column (Cell1,Cell2,Cell3,Cell4,Cell5,Cell6)>
+<!ELEMENT Cell1 (#PCDATA)>
+<!ELEMENT Cell2 (#PCDATA)>
+<!ELEMENT Cell3 (#PCDATA)>
+<!ELEMENT Cell4 (#PCDATA)>
+<!ELEMENT Cell5 (#PCDATA)>
+<!ELEMENT Cell6 (#PCDATA)>

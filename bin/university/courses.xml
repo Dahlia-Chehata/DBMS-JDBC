@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE courses SYSTEM "courses.dtd">
+<courses>
+  <ColumnNames>
+    <Col1>cid</Col1>
+    <Col2>cname</Col2>
+  </ColumnNames>
+  <DataTypes>
+    <Type1>int</Type1>
+    <Type2>String</Type2>
+  </DataTypes>
+  <Column>
+    <Cell1>1</Cell1>
+    <Cell2>4</Cell2>
+  </Column>
+  <Column>
+    <Cell1>cooking</Cell1>
+    <Cell2>Driving</Cell2>
+  </Column>
+</courses>

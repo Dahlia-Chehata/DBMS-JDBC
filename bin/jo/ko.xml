@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ko SYSTEM "ko.dtd">
+<ko>
+  <ColumnNames>
+    <Col1>ID</Col1>
+  </ColumnNames>
+  <DataTypes>
+    <Type1>int</Type1>
+  </DataTypes>
+  <Column>
+    <Cell1>5</Cell1>
+  </Column>
+</ko>

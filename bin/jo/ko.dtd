@@ -1,0 +1,7 @@
+<!ELEMENT ko (ColumnNames,DataTypes,Column)>
+<!ELEMENT ColumnNames (Col1)>
+<!ELEMENT Col1 (#PCDATA)>
+<!ELEMENT DataTypes (Type1)>
+<!ELEMENT Type1 (#PCDATA)>
+<!ELEMENT Column (Cell1)>
+<!ELEMENT Cell1 (#PCDATA)>

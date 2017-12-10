@@ -1,0 +1,22 @@
+{
+ "student": {
+  "ColumnNames": {
+   "Col1": "Name",
+   "Col2": "ID"
+  },
+  "DataTypes": {
+   "Type1": "String",
+   "Type2": "int"
+  },
+  "Column": [
+   {
+    "Cell1": "Ahmed",
+    "Cell2": "Ali"
+   },
+   {
+    "Cell1": "2",
+    "Cell2": "5"
+   }
+  ]
+ }
+}

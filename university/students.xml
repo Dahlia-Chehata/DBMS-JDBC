@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+  <ColumnNames>
+    <Col1>sid</Col1>
+    <Col2>fname</Col2>
+    <Col3>lname</Col3>
+  </ColumnNames>
+  <DataTypes>
+    <Type1>int</Type1>
+    <Type2>String</Type2>
+    <Type3>String</Type3>
+  </DataTypes>
+  <Column>
+    <Cell1>1</Cell1>
+    <Cell2>2</Cell2>
+    <Cell3>3</Cell3>
+    <Cell4>4</Cell4>
+  </Column>
+  <Column>
+    <Cell1>Mickey</Cell1>
+    <Cell2>Minnie</Cell2>
+    <Cell3>Donald</Cell3>
+    <Cell4>Goofy</Cell4>
+  </Column>
+  <Column>
+    <Cell1>Mouse</Cell1>
+    <Cell2>Mouse</Cell2>
+    <Cell3>Duck</Cell3>
+    <Cell4>Goof</Cell4>
+  </Column>
+</students>
