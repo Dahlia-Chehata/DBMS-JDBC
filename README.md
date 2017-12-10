@@ -23,9 +23,9 @@
 	this classes will be explained briefly in the next few lines. The other package is the
 	package responsible for drawing table neatly, this package was downloaded from
 	GitHub.
-	
-        SQL Statements Parser Class
-	It class follows the Singleton Design Pattern since we only need to create a
+
+        SQL statements parser class
+        It class follows the Singleton Design Pattern since we only need to create a
 	single object to be used in out program and to control synchronization if threads are
 	used in order to prevent statements execution conflict.
 	The statement is entered to this class where it checks that the statements a right
